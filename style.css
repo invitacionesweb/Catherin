@@ -489,7 +489,7 @@ label .grupo-opciones {
    font-family: var(--font-principal);
   padding: 0.8rem;
   font-size: 1rem;
-  color: grey;
+  color: #313d35;
   width: 90%;
   margin: auto;
   box-sizing: border-box;
