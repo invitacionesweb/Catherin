@@ -1,4 +1,4 @@
-const scriptUrl = '';
+const scriptUrl = 'https://script.google.com/macros/s/AKfycbxfLH_gUFBacIdPF4tmaYh5m2HOfvnnKs2ZczVt5X1fkjbbUI7Vs31ftZPIeIGguyea/exec';
 const form = document.forms['asistenciaform'];
 
 form.addEventListener('submit', e => {
